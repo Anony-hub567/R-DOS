@@ -2,11 +2,10 @@ This repository contains all research materials for the paper *“R-DOS: Extendi
 
 ## 📊 Visual Comparison
 
-| RDOS (Proposed)                                              | Traditional                                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **[images/Ideal_Organizational_Structure.png](https://www.kimi.com/chat/images/Ideal_Organizational_Structure.png)** | **[images/Traditional_Organizational_Structure.png](https://www.kimi.com/chat/images/Traditional_Organizational_Structure.png)** |
-
-------
+| RDOS (Proposed) | Traditional |
+|-----------------|-------------|
+| ![Ideal Organizational Structure](https://raw.githubusercontent.com/Anony-hub567/RDOS/main/images/Ideal_Organizational_Structure.png) | ![Traditional Organizational Structure](https://raw.githubusercontent.com/Anony-hub567/RDOS/main/images/Traditional_Organizational_Structure.png) |
+| **Ideal structure modeled with the RDOS approach** | **Same project represented with a classic org-chart** |
 
 ## 📋 Questionnaire (Likert 1–5)
 
