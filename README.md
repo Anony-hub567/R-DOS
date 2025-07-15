@@ -4,13 +4,13 @@ This repository contains all research materials for the paper *“R-DOS: Extendi
 
 ### RDOS – Ideal Organizational Structure
 *Ideal structure modeled with the RDOS approach*  
-![Ideal Organizational Structure](https://raw.githubusercontent.com/Anony-hub567/RDOS/main/images/Ideal_Organizational_Structure.png)
+![Ideal Organizational Structure](https://raw.githubusercontent.com/Anony-hub567/R-DOS/main/images/Ideal_Organizational_Structure.png)
 
 ---
 
 ### Traditional Organizational Structure
 *Same project represented with a classic org-chart*  
-![Traditional Organizational Structure](https://raw.githubusercontent.com/Anony-hub567/RDOS/main/images/Traditional_Organizational_Structure.png)
+![Traditional Organizational Structure](https://raw.githubusercontent.com/Anony-hub567/R-DOS/main/images/Traditional_Organizational_Structure.png)
 
 ## 📋 Questionnaire (Likert 1–5)
 
