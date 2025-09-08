@@ -26,3 +26,12 @@ This repository contains all research materials for the paper *“R-DOS: Extendi
 
 5.Can you understand what specific work each department or position needs to complete through the diagram? (1 to 5)
 
+### Survey Results
+📊 *Explanation of the Results*  
+The chart shows the mean Likert scores (1–5) given by eight master’s students after they inspected both the RDOS and the traditional org-chart. We focus on three aspects:  
+1. **Structural Clarity** (Q1–Q2)  
+2. **Information Effectiveness** (Q3)  
+3. **Requirement / Task Understanding** (Q4–Q5)  
+
+*Likert-scale responses to the five questionnaire items*  
+![Survey Results](https://raw.githubusercontent.com/Anony-hub567/R-DOS/main/images/Survey_Results.png)
